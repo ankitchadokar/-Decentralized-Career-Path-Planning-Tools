@@ -5,6 +5,8 @@ The Career Path Planning dApp is designed to help users set and achieve their ca
 
 ## Contract Address
 0x8fcACBf84E833A8a731B13afa9374f61D0904bB3
+![image](https://github.com/user-attachments/assets/387e4d21-b26b-49a0-95f1-7a92c09cb7f4)
+
 
 ## Project Vision
 The vision of the Career Path Planning dApp is to empower individuals by providing a secure and transparent platform for career development. By leveraging blockchain technology, users can confidently track their progress and share their achievements, thereby enhancing their personal and professional growth.
