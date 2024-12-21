@@ -1,4 +1,4 @@
-# Career Path Planning
+# Decentralized Career Path Planning
 
 ## Project Description
 The Career Path Planning dApp is designed to help users set and achieve their career goals in a decentralized manner. Users can add career goals, mark them as achieved, and retrieve their goals through the smart contract. This ensures transparency and immutability, which are key advantages of blockchain technology.
